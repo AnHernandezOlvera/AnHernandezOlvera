@@ -11,9 +11,10 @@
     </a>
     
 </div>
-
-  
 </div>
+
+> "Primero resuelve el problema. Entonces, escribe el código"
+-- John Johnson
 
 
 <!--
