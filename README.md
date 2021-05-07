@@ -4,13 +4,21 @@
 <h3>Front-end Developer + UX/UI + Graphic design</h3>
 
 
-<div width="90%" align="left">
+<div width="100%" align="left">
     <p width="100%" align="center">Programmer woman, I love learning and solving challenges<p>
     <p width="100%" align="center">👑  KEEP CALM AND CODE<p>
-    <img align="center"  width="25%" src= "https://github.com/AnHernandezOlvera/files/blob/main/scroll.gif">
-    <a align="center" width="50%" href="https://github-readme-stats.vercel.app/api?username=AnHernandezOlvera&show_icons=true&theme=dark&hide_border=true">
-        <img align="center" src= "https://github-readme-stats.vercel.app/api?username=AnHernandezOlvera&show_icons=true&theme=dark&hide_border=true">
-    </a> 
+    <div width="100%" align="center">
+        <div width="50%"><img align="center"  width="30%" src= "https://github.com/AnHernandezOlvera/files/blob/main/scroll.gif"></div>
+        <strong>Currently learning </strong> <br>
+        <img width="40%" align="center" src= "https://github.com/AnHernandezOlvera/files/blob/main/tecnologias.png">
+       <br>  at <br> 
+    <a align="center" width="100%" href="https://github-readme-stats.vercel.app/api?username=AnHernandezOlvera&show_icons=true&theme=dark&hide_border=true">
+        <img align="center" src= "https://github-readme-stats.vercel.app/api?username=AnHernandezOlvera&show_icons=true&theme=dark&hide_border=true">     
+    </a>
+    </div>
+   
+    
+
     
 </div>
 </div>
