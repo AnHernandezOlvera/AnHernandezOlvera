@@ -17,7 +17,9 @@
         <img width="20%"  align="center" src= "https://github.com/AnHernandezOlvera/files/blob/main/laboratoria.png">     
        </a><br><br>
         <img width="50%"  align="center" src= "https://github-readme-stats.vercel.app/api?username=AnHernandezOlvera&show_icons=true&theme=shades-of-purple">     
-       <br><br> 
+       <br><br>
+        <strong>TOOLS</strong> <br>
+        <img width="50%"  align="center" src= "https://github.com/AnHernandezOlvera/files/blob/main/herramientas.png">
     </div>
   
 </div>
