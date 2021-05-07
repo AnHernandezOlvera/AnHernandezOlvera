@@ -10,7 +10,7 @@
     <p width="100%" align="center">👑  KEEP CALM AND CODE<p>
     <div width="100%" align="center">
         <div width="50%"><img align="center"  width="30%" src= "https://github.com/AnHernandezOlvera/files/blob/main/scroll.gif"></div>
-        <strong>Currently learning </strong> <br>
+        <h2>Currently learning </h2 <br>
         <img width="40%" align="center" src= "https://github.com/AnHernandezOlvera/files/blob/main/tecnologias.png">
        <br><br>  at <br><br>
         <a align="center" width="50%" href="https://www.laboratoria.la/">
