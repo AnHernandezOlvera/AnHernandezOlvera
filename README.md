@@ -1,5 +1,8 @@
-### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnHernandezOlvera&theme=dark&show_icons=true)
+<div align="center">
+<h1 align="center">ANAHÍ HERNÁNDEZ</h1>
+<h3 align="center">Front-end Developer + UX/UI + Graphic design</h3>  
+</div>
+<img align="center" src= "https://github-readme-stats.vercel.app/api?username=AnHernandezOlvera&theme=dark&show_icons=true">
 
 <!--
 
