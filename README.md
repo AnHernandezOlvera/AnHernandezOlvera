@@ -1,8 +1,23 @@
+![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)
+
 <div align="center">
 <h1 align="center">ANAHÍ HERNÁNDEZ</h1>
-<h3 align="center">Front-end Developer + UX/UI + Graphic design</h3>  
+<h3 align="center">Front-end Developer + UX/UI + Graphic design</h3>
+<br>
+<strong>I’m currently learning</strong>
+<br>
+<br>
+<a width="100" href="https://github-readme-stats.vercel.app/api?username=AnHernandezOlvera&show_icons=true&theme=dark&hide_border=true">
+    <img align="center" src= "https://github-readme-stats.vercel.app/api?username=AnHernandezOlvera&show_icons=true&theme=dark&hide_border=true">
+</a>
+  
 </div>
-<img align="center" src= "https://github-readme-stats.vercel.app/api?username=AnHernandezOlvera&theme=dark&show_icons=true">
+
+```css
+   // h1 {
+    color:red;
+   }
+```
 
 <!--
 
