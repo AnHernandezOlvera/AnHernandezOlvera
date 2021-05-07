@@ -16,7 +16,7 @@
         <a align="center" width="50%" href="https://www.laboratoria.la/">
         <img width="20%"  align="center" src= "https://github.com/AnHernandezOlvera/files/blob/main/laboratoria.png">     
        </a><br><br>
-        <strong>TOOLS</strong> <br>
+        <h2>TOOLS</h2> <br>
         <img width="25%"  align="center" src= "https://github.com/AnHernandezOlvera/files/blob/main/herramientas-2.png"><br><br>
         <h2>I’m currently working on<br>
         <a href="https://github.com/AnHernandezOlvera/CDMX010-burger-queen-api-client/">"Burger Queen API CLIENT"</a></h2>
