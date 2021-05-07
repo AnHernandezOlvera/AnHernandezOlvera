@@ -1,15 +1,15 @@
 <div align="center">
+    
 <h1 align="center">ANAHÍ HERNÁNDEZ</h1>
-<br>
-<strong>I’m currently learning</strong>
-<br>
-<br>
+<h3>Front-end Developer + UX/UI + Graphic design</h3>
+
 <img align="left"  width="20%" src= "https://github.com/AnHernandezOlvera/files/blob/main/scroll.gif">
-<div width="80%" align="left">
-    <h3>Front-end Developer + UX/UI + Graphic design</h3>
+
+<div width="90%" align="left">
     <a width="100" href="https://github-readme-stats.vercel.app/api?username=AnHernandezOlvera&show_icons=true&theme=dark&hide_border=true">
     <img align="center" src= "https://github-readme-stats.vercel.app/api?username=AnHernandezOlvera&show_icons=true&theme=dark&hide_border=true">
     </a>
+    
 </div>
 
   
