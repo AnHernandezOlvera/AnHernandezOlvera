@@ -1,3 +1,4 @@
+![Profile views](https://gpvc.arturio.dev/AnHernandezOlvera)  
 <div align="center">
     
 <h1 align="center">ANAHÍ HERNÁNDEZ</h1>
@@ -15,13 +16,14 @@
        <a align="center" width="50%" href="https://www.laboratoria.la/">
         <img width="20%"  align="center" src= "https://github.com/AnHernandezOlvera/files/blob/main/laboratoria.png">     
        </a><br><br>
+        <img width="50%"  align="center" src= "https://github-readme-stats.vercel.app/api?username=AnHernandezOlvera&show_icons=true&theme=shades-of-purple">     
+       <br><br> 
     </div>
-   
-    
+  
+</div>
+</div>
 
-    
-</div>
-</div>
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AnHernandezOlvera) 
 
 > "Primero resuelve el problema. Entonces, escribe el código"
 -- John Johnson
