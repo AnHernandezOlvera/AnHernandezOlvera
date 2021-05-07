@@ -11,10 +11,10 @@
         <div width="50%"><img align="center"  width="30%" src= "https://github.com/AnHernandezOlvera/files/blob/main/scroll.gif"></div>
         <strong>Currently learning </strong> <br>
         <img width="40%" align="center" src= "https://github.com/AnHernandezOlvera/files/blob/main/tecnologias.png">
-       <br>  at <br> 
-    <a align="center" width="100%" href="https://github-readme-stats.vercel.app/api?username=AnHernandezOlvera&show_icons=true&theme=dark&hide_border=true">
-        <img align="center" src= "https://github-readme-stats.vercel.app/api?username=AnHernandezOlvera&show_icons=true&theme=dark&hide_border=true">     
-    </a>
+       <br><br>  at <br><br>
+       <a align="center" width="50%" href="https://www.laboratoria.la/">
+        <img width="20%"  align="center" src= "https://github.com/AnHernandezOlvera/files/blob/main/laboratoria.png">     
+       </a><br><br>
     </div>
    
     
